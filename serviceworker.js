@@ -4,6 +4,7 @@ const assets = [
   "/index.html",
   "/styles.css",
   "/main.js",
+  "/icon.png",
   "/node_modules/leaflet/dist/leaflet.js",
   "/node_modules/jszip/dist/jszip.min.js",
   "/node_modules/leaflet-omnivore/leaflet-omnivore.min.js",
