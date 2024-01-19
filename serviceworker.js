@@ -7,7 +7,6 @@ const assets = [
   "/node_modules/leaflet/dist/leaflet.js",
   "/node_modules/jszip/dist/jszip.min.js",
   "/node_modules/leaflet-omnivore/leaflet-omnivore.min.js",
-  "/node_modules/@turf/turf/index.js",
   "/node_modules/shpjs/dist/shp.js",
   "/node_modules/togeojson/togeojson.js",
   "https://api.mapbox.com/mapbox.js/plugins/leaflet-image/v0.0.4/leaflet-image.js",
